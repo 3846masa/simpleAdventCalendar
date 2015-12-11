@@ -110,3 +110,4 @@ gulp.task('watch', () => {
 });
 
 gulp.task('build', ['css:build', 'js:build']);
+gulp.task('default', ['watch']);
