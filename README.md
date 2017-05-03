@@ -1,4 +1,6 @@
 # Simple Advent Calendar
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/3846masa/simpleAdventCalendar.svg)](https://greenkeeper.io/)
 [Adventar](http://www.adventar.org)風のページを静的Webサーバ（Github Pagesなど）で配信できます
 
 [サンプルページはこちら](http://3846masa.github.io/simpleAdventCalendar/)
